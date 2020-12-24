@@ -1,0 +1,5 @@
+admin: berkanuz@hotmail.com
+pw: B3rkanuz@hotmail.com
+
+user: berkanuz@gmail.com
+pw: B3rkanuz@gmail.com
